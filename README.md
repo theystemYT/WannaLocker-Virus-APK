@@ -1,1 +1,1 @@
-For people that don't know, i got this file from someone else. Here's how to download the malware. First, download the .zip file. Then, open it. Then, enter the code (infected). Then download the malware. (If you didn't read the description and title, this is a virus.)
+For people that don't know, i got this file from someone else. Here's how to download the malware. First, download the .zip file. Then, open it. Then, enter the password (infected is the password). Then download the malware. (If you didn't read the description and title, this is a virus.)
